@@ -1,5 +1,5 @@
 # Website details
-name: Rack Brains Africa
+name: Rackbrains Africa
 description: Embrace the culture of sharing and problem solving
 email: info.rackbrains@gmail.com
 author: author
@@ -19,7 +19,7 @@ baseurl: ''
 
 # Includes
 addthisId: ''
-disqusUsername: ''
+disqusUsername: 'warsha'
 googleAnalyticsId: ''
 
 # Search engine verifications
