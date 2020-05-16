@@ -1,26 +1,14 @@
 {
-  "name": "dasper",
+  "name": "rackbrains.io",
   "version": "1.0.0",
-  "description": "A Jekyll theme.",
+  "description": "Rackbrains site",
+  "private": true,
   "main": "gulpfile.js",
   "scripts": {
-    "gulp": "gulp default"
+    "gulp": "gulp"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://ozgrozer@github.com/ozgrozer/dasper.git"
-  },
-  "keywords": [
-    "jekyll",
-    "theme",
-    "dasper"
-  ],
-  "author": "ozgrozer",
+  "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ozgrozer/dasper/issues"
-  },
-  "homepage": "https://github.com/ozgrozer/dasper#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-plumber": "^1.1.0",
